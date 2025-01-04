@@ -22,9 +22,9 @@ Recent Informatics graduate focusing on AI/ML and enterprise software developmen
 
 <h3>🎓 Latest Publications</h3>
 <ul>
-  <li><a href="#"><i>Beyond Benchmarks: Assessing Knowledge Graph Completion Methods on Non-Benchmark Employee Data (ICoDSA 2024)</i></a></li>
-  <li><a href="#"><i>A Deep Dive into Electra: Transfer Learning for Fine-Grained Text Classification on SST-2 (ISRITI 2023)</i></a></li>
-  <li><a href="#"><i>Integrity Protection for Encrypted DNN Inference (STAIRS 2023)</i></a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10652136"><i>Beyond Benchmarks: Assessing Knowledge Graph Completion Methods on Non-Benchmark Employee Data (ICoDSA 2024)</i></a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/10467579"><i>A Deep Dive into Electra: Transfer Learning for Fine-Grained Text Classification on SST-2 (ISRITI 2023)</i></a></li>
+  <li><a href="https://ecai2023.eu/conf-data/ecai2023/files/STAIRS/stairs2023_09.pdf"><i>Integrity Protection for Encrypted DNN Inference (STAIRS 2023)</i></a></li>
 </ul>
 
 <h3>📈 My GitHub Stats</h3>
