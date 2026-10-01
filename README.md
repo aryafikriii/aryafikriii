@@ -13,14 +13,14 @@ Software engineer at Medco E&P Indonesia since June 2024. I build internal busin
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square" />
+  <img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
