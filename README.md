@@ -8,6 +8,8 @@ Software engineer at Medco E&P Indonesia since June 2024. I build internal busin
 - Extracting structured data from documents with LLMs and OCR
 - Shipping .NET applications with Docker, Kubernetes, and Azure DevOps
 
+From May to September 2026 I also freelanced as a full stack engineer for Waste4Change, building a client-facing web dashboard with Nuxt, Vue, TypeScript, and Laravel.
+
 <h3>Technologies and tools</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
